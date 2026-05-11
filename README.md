@@ -1,7 +1,16 @@
-### Timsy
+<div align="center">
+
+# Hi, I'm Timsy
+
+<p>Exploring code, materials, and useful automation.</p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTTimsy/Timsy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TTTimsy/Timsy/output/github-contribution-grid-snake.svg">
-  <img alt="贪吃蛇贡献图动画" src="https://raw.githubusercontent.com/TTTimsy/Timsy/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="TTTimsy-contribution-animation-dark.svg" />
+  <img alt="TTTimsy contribution animation" src="TTTimsy-contribution-animation.svg" width="100%" />
 </picture>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=f7d774&section=footer" alt="divider" width="100%" />
+
+</div>

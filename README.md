@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi, I'm Timsy
-
-<p>Exploring code, materials, and useful automation.</p>
+# Welcome! This is Timsy Tinche Lin ~ 🎆
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TTTimsy/TTTimsy/main/TTTimsy-contribution-animation-dark.svg" />
